@@ -1,0 +1,6 @@
+# Never commit router backups, exports, keys, or credentials
+*.backup
+*.rsc
+*.key
+*.pem
+secrets*
